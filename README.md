@@ -53,7 +53,7 @@ python game.py
 ---
 
 ## 👨‍💻 Author
-**Abdelaziz**
+**Abdelaziz Elshourbgy**
 
 
 
