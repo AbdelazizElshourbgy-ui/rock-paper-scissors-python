@@ -17,6 +17,3 @@ A simple Rock Paper Scissors game built with Python.
 ## How to Run
 ```bash
 python game.py
-Author
-
-Abdelaziz Elshourbgy
