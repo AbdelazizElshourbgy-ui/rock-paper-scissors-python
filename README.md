@@ -48,4 +48,12 @@ The game ensures valid user input and randomly generates the computer’s choice
 
 ```bash
 python game.py
+```
+
+---
+
+## 👨‍💻 Author
+**Abdelaziz**
+
+
 
